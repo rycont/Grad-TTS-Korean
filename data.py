@@ -89,12 +89,14 @@ class TextMelBatchCollate(object):
         y_lengths, x_lengths = [], []
 
         for i, item in enumerate(batch):
-            y_, x_ = item['y'], item['x']
-            print(y[i, :, :y_.shape[-1]].shape, y_.shape)
-            y_lengths.append(y_.shape[-1])
-            x_lengths.append(x_.shape[-1])
-            y[i, :, :y_.shape[-1]] = y_
-            x[i, :x_.shape[-1]] = x_
+            try:
+                y_, x_ = item['y'], item['x']
+                y_lengths.append(y_.shape[-1])
+                x_lengths.append(x_.shape[-1])
+                y[i, :, :y_.shape[-1]] = y_
+                x[i, :x_.shape[-1]] = x_
+            except Exception as e:
+                print("Passing an example due to exception: {}".format(e))
 
         y_lengths = torch.LongTensor(y_lengths)
         x_lengths = torch.LongTensor(x_lengths)
