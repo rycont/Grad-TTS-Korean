@@ -93,7 +93,7 @@ if __name__ == "__main__":
     print('Initializing model...')
 
     grad_path, loaded_epoch = get_recent_ckpt()
-    loaded_epoch = loaded_epoch + 1 if loaded_epoch > 0 else 0
+    loaded_epoch = (loaded_epoch + 1) if (loaded_epoch > 0) else 0
 
     model = GradTTS(nsymbols, 1, None, n_enc_channels, filter_channels, filter_channels_dp, 
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
@@ -127,7 +127,7 @@ if __name__ == "__main__":
         save_plot(mel.squeeze(), f'{log_dir}/original_{i}.png')
 
     print('Start training...')
-    iteration = loaded_epoch
+    iteration = 0
     for epoch in range(1, n_epochs + 1)[loaded_epoch:]:
         model.train()
         dur_losses = []
