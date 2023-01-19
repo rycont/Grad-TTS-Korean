@@ -6,6 +6,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # MIT License for more details.
 
+import os
 import numpy as np
 from tqdm import tqdm
 
@@ -58,6 +59,15 @@ beta_min = params.beta_min
 beta_max = params.beta_max
 pe_scale = params.pe_scale
 
+def get_recent_ckpt():
+    grad_path = None
+
+    for i in range(n_epochs, 0, -1):
+        grad_path = f'{log_dir}/grad_{i}.pt'
+        if os.path.exists(grad_path):
+            break
+
+    return grad_path
 
 if __name__ == "__main__":
     torch.manual_seed(random_seed)
@@ -79,9 +89,25 @@ if __name__ == "__main__":
                                   win_length, f_min, f_max)
 
     print('Initializing model...')
+
+    grad_path = get_recent_ckpt()
+
     model = GradTTS(nsymbols, 1, None, n_enc_channels, filter_channels, filter_channels_dp, 
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                     n_feats, dec_dim, beta_min, beta_max, pe_scale).to(device)
+
+    if grad_path is not None:
+        print(f'Loading checkpoint from {grad_path}...')
+
+        model.load_state_dict(
+            torch.load(
+                grad_path,
+                map_location = device
+            )
+        )
+    else:
+        print('No checkpoint found. Initializing model from scratch...')
+
     print('Number of encoder + duration predictor parameters: %.2fm' % (model.encoder.nparams/1e6))
     print('Number of decoder parameters: %.2fm' % (model.decoder.nparams/1e6))
     print('Total parameters: %.2fm' % (model.nparams/1e6))
