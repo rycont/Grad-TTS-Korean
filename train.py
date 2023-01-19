@@ -60,16 +60,12 @@ beta_max = params.beta_max
 pe_scale = params.pe_scale
 
 def get_recent_ckpt():
-    grad_path = None
-    epoch = -1
-
     for i in range(n_epochs, 0, -1):
         grad_path = f'{log_dir}/grad_{i}.pt'
         if os.path.exists(grad_path):
-            epoch = i
-            break
+            return grad_path, i + 1
+    return None, 1
 
-    return grad_path, epoch + 1
 
 if __name__ == "__main__":
     torch.manual_seed(random_seed)
