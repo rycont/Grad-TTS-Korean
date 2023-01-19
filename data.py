@@ -25,7 +25,7 @@ from meldataset import mel_spectrogram
 
 class TextMelDataset(torch.utils.data.Dataset):
     def __init__(self, filelist_path, cmudict_path, add_blank=True,
-                 n_fft=1024, n_mels=80, sample_rate=22050,
+                 n_fft=1024, n_mels=80, sample_rate=44100,
                  hop_length=256, win_length=1024, f_min=0., f_max=8000):
         self.filepaths_and_text = parse_filelist(filelist_path)
         self.cmudict = cmudict.CMUDict(cmudict_path)
@@ -102,7 +102,7 @@ class TextMelBatchCollate(object):
 
 class TextMelSpeakerDataset(torch.utils.data.Dataset):
     def __init__(self, filelist_path, cmudict_path, add_blank=True,
-                 n_fft=1024, n_mels=80, sample_rate=22050,
+                 n_fft=1024, n_mels=80, sample_rate=44100,
                  hop_length=256, win_length=1024, f_min=0., f_max=8000):
         super().__init__()
         self.filelist = parse_filelist(filelist_path, split_char='|')

@@ -72,17 +72,17 @@ if __name__ == '__main__':
     with torch.no_grad():
         for i, text in enumerate(texts):
             print(f'Synthesizing {i} text...', end=' ')
-            x = torch.LongTensor(intersperse(text_to_sequence(text, dictionary=cmu), len(symbols))).to(device)[None]
+            x = torch.LongTensor(intersperse(text_to_sequence(text), len(symbols))).to(device)[None]
             x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
             
             t = dt.datetime.now()
             y_enc, y_dec, attn = generator.forward(x, x_lengths, n_timesteps=args.timesteps, temperature=1.5,
                                                    stoc=False, spk=spk, length_scale=0.91)
             t = (dt.datetime.now() - t).total_seconds()
-            print(f'Grad-TTS RTF: {t * 22050 / (y_dec.shape[-1] * 256)}')
+            print(f'Grad-TTS RTF: {t * 44100 / (y_dec.shape[-1] * 256)}')
 
             audio = (vocoder.forward(y_dec).cpu().squeeze().clamp(-1, 1).numpy() * 32768).astype(np.int16)
             
-            write(f'./out/sample_{i}.wav', 22050, audio)
+            write(f'./out/sample_{i}.wav', 44100, audio)
 
     print('Done. Check out `out` folder for samples.')
