@@ -1,0 +1,732 @@
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4879.wav|다음 고근 피아노 솔로임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4880.wav|피가 머즐 때까지 소므로 누르고 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4881.wav|소매가 너무 길지 안나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4882.wav|새해 소망이 뭐예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4883.wav|부인께서 요리 솜씨가 정말 조으시구뇨.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4884.wav|이미늘 가신다는 소무늘 드러써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4885.wav|아내는 결혼 저네 동네에서 미이느로 소문나써써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4886.wav|소늘 펴 보세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4887.wav|오느 로후에느 냐칸 소나기가 예상됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4888.wav|그 공워네는 소나무가 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4889.wav|너무 추워서 손바릐 감가그 롼전히 이러써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4890.wav|손대지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4891.wav|우리 집 쏘가 오느 라침 송아지를 라아써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4892.wav|장미 한 송이에 얼마죠?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4893.wav|송펴는 한국 싸람드리 추서게 멍는 특뼐하 늠시기에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4894.wav|예의를 지켜서 손해를 보 리르 넙써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4895.wav|손자가 태어나 니후로 아주 늘근 기부니야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4896.wav|손자비를 꼭 짜브세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4897.wav|우리나라에서는 기레서 서로 손잡꼬 다니느 녀자드리 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4898.wav|너, 머리 손질할 때 된 거 가튼데.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4899.wav|손가락 끄세 감가기 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4900.wav|컴퓨터르 로래 하고 나면 손모기 아파요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4901.wav|오늘 바메 우리 지베 손니미 오기로 되어 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4902.wav|손님, 전화번호가 어떠케 되시죠?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4903.wav|그녀는 손녀에게 마는 도늘 람겯따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4904.wav|옌나레는 학쌩드릐 손바다글 자로 때리는 선생님드리 이써써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4905.wav|손뼈글 치는 거슨 건강에 조아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4906.wav|이번 지지느로 큰 경제적 쏜시리 발생핻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4907.wav|손수건 떠러뜨리셔써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4908.wav|사를 빼는 가장 손쉬운 방버븐 굼는 거시다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4909.wav|손토블 러무 짤께 까까써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4910.wav|손등에도 크림 발라라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4911.wav|어머니미 소녀 가트시네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4912.wav|그 사라믄 십때 소년 소녀 가장드를 돕꼬 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4913.wav|저는 소파에 안자 채그 링는 걸 조아해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4914.wav|이 소포를 좀 보내고 시픈데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4915.wav|어제 우리 가조근 공워느로 소풍을 가써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4916.wav|바께서 이상한 소리가 나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4917.wav|그게 무슨 소리야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4918.wav|누군가 도와 달라고 소리첟따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4919.wav|올해 새로운 소서를 쓰실 꼐회기 이쓰세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4920.wav|저느 뉴명한 소설가가 되고 시퍼요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4921.wav|소스 뿌려 드릴까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4922.wav|맥쭈 안주로 소시지만큼 조은 게 업쬬.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4923.wav|조은 소시기 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4924.wav|우리는 소수의 의겨늘 존중해야 함니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4925.wav|구름 사이로 해가 소삳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4926.wav|제 소워는 말랃따는 소리 한 번 드러보는 거예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4927.wav|내가 거기 간다고 무슨 소용이 읻께써?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4928.wav|모르는 체해도 소용업써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4929.wav|이 건무른 누구 소유예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4930.wav|그녀는 순수하 녕호늬 소유자다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4931.wav|사무실 마즌펴네 굉장히 싼 가게가 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4932.wav|지믄 다 싸써요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4933.wav|다 씨븐 꺼믄 종이에 싸서 버리세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4934.wav|싸구려를 사는 거슨 사실 경제저기지 안타.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4935.wav|그런 싸구려 소설드르 닉찌 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4936.wav|밤새 누니 마니 싸연네.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4937.wav|스트레스가 싸이면 노래방에 갈 때가 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4938.wav|싹 뻐리고 새 거 사자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4939.wav|그 사라믄 쌀하고 보리도 구별 모 탈껄.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4940.wav|그 두른 자 러울리는 한 쌍이다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4941.wav|싼갑쎄 비행기 표를 구할 빵버 법쓸까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4942.wav|너는 그 쌍둥이 형제들 구별할 쑤 이써?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4943.wav|걔는 채글 싸아 두기만 하고 보지느 나나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4944.wav|먼저 이 부냐에서 퐁널븐 경허믈 싼는 게 중요해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4945.wav|우리느 너려쓸 때 참 마니 싸워써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4946.wav|남들 싸우메 끼어들지 마.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4947.wav|그건 썩 쪼은 생각 깓찌 아는데.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4948.wav|뭔가 썽는 냄새가 나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4949.wav|우선 토마토를 씨서서 써러.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4950.wav|방이 썰렁한데 불 좀 너을까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4951.wav|농다미 참 썰렁하군.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4952.wav|모두 휴가를 가서 사무시리 썰렁해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4953.wav|어떤 핸드폰 쓰세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4954.wav|도늘 함부로 쓰지 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4955.wav|저느 난경으 란 쓰며 나무걷또 안 보여요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4956.wav|그 기사는 누가 썬나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4957.wav|이 커피는 너무 쓴데.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4958.wav|이 표혀는 주로 회화에서 쓰인다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4959.wav|게시파네는 추립 끔지라고 쓰여 이썯따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4960.wav|바닥 쫌 빋짜루로 쓰러라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4961.wav|가으리 되며 놴지 쓸쓸해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4962.wav|쓸데업씨 참견하지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4963.wav|쓸데엄는 소리 좀 하지 마.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4964.wav|사탕을 머그면 쓴마시 조 멉써질 꺼야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4965.wav|쓰레기 양을 주리려고 노려캐야 한다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4966.wav|쓰레기통 좀 비워 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4967.wav|그 사라믄 피로 때무네 바다게 쓰러젇따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4968.wav|저는 수방 머글 때 씨도 가치 머거요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4969.wav|소영 씨, 잠시 시간 좀 내 주시게써요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4970.wav|나는 내 아이가 씩씨카게 자라쓰면 조케써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4971.wav|터기 아파서 음시글 잘 씨블 쑤가 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4972.wav|씨르므 녠날만크 민기가 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4973.wav|아기를 씯끼는 게 쉬우 니리 아니에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4974.wav|밤 먹끼 저네 반드시 소늘 씨서라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4975.wav|지금 바가지 씨우려는 거예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4976.wav|총을 쏘지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4977.wav|오느른 제가 쏠게요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4978.wav|갑짜기 엄청난 비가 쏘다지기 시자캗따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4979.wav|죄송해요. 커피를 쏘다써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4980.wav|방학 때 해외여행을 하는 학쌩드릐 수가 느러나고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4981.wav|차가 업쓰니 거러가는 수바께 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4982.wav|갈 쑤 이쓸지 모르게써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4983.wav|이 시디에는 수백 꼬기 넘느 느마기 드러가요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4984.wav|수바 칸 개랑 배 세 개 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4985.wav|우리 티믄 공겨게 비해 수비가 야캐요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4986.wav|매년 수천 명의 사람드리 교통사고로 목쑤므 리러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4987.wav|언젠가 수처베 그 사람 전화번호 저거 노은 게 이쓸 꺼예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4988.wav|핸드폰 수추리 점저 머려워지고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4989.wav|도는 목쩌기 뤼한 수다닐 뿌니야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4990.wav|서우른 한구긔 수도임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4991.wav|수도꼭찌에서 계송 무리 떠러저요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4992.wav|대한민구 긴구의 절반 정도가 수도궈네 모여 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4993.wav|수동저그로 일하지 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4994.wav|수돈무른 마셔도 되지만, 사시 라무도 마시지 안씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4995.wav|오느른 수어비 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4996.wav|그 과모그 녕어로 수어패요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4997.wav|거진말하지 말라고 수업씨 말핻짜나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4998.wav|마른 수거 넘니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_4999.wav|어르네게 인사할 때는 고개를 수겨라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5000.wav|저 때무네 수고 마느셔써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5001.wav|내 생가게는 수하기 모든 과목 쭝에서 제일 쉬워.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5002.wav|우리 학꾜는 지난다레 경주로 수하겨행을 가써써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5003.wav|수화기가 잘몬 노여 이써써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5004.wav|그 여자는 수입뽀다 지추리 더 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5005.wav|우리 가게에 인는 대부부늬 상품드리 유러베서 수이패 온 걷뜨림니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5006.wav|저히는 주로 수입푸믈 취그팜니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5007.wav|요즈믄 김치도 중구게서 수입뙤고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5008.wav|상에 수저 좀 노아라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5009.wav|저는 채글 쓰기 위해 자료를 수지파고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5010.wav|학쌩드릐 전반저긴 수주니 그다지 놉찌 아나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5011.wav|이 고양이는 수커시에요, 암커시에요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5012.wav|저도 가고 십찌만 지베서 숙쩨를 해야 해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5013.wav|먼저 숙쏘부터 정해야게써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5014.wav|한국 싸람드리 제일 마니 마시는 수리 뭔가요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5015.wav|한구게서는 술 마실 때 서로의 술짜늘 채워 줘요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5016.wav|어제 친구들과 술자리를 가젇따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5017.wav|새로 생긴 술지베 가 보자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5018.wav|담배 연기 때무네 수미 마켜요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5019.wav|수만 명의 사람드리 광장에 모여드럳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5020.wav|매년 수마는 사람드리 굴머 죽꼬 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5021.wav|네가 베개 미테 돈 숨긴 거 다 아라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5022.wav|그들 부부는 그들 지베서 숨진 채 발견되얻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5023.wav|책쌍 미테 수머 봗짜 소용업써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5024.wav|의사 선생님 말로는 제가 수면 시가늘 를려야 한대요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5025.wav|일반저그로 여자가 남자보다 수명이 기러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5026.wav|저느 나내를 처음 본 순간 그녀에게 반해써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5027.wav|저는 순간저그로 정시느 리를 뻔해써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5028.wav|신사 숭녀 여러분, 자리에 안자 주시기 바람니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5029.wav|이 아기는 참 순하네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5030.wav|그 사라미 한 마를 믿따니 너 참 순진하구나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5031.wav|시간 순서대로 내용을 정니합씨다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5032.wav|네 순서가 올 때까지 기다려.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5033.wav|소무는 순식까네 온 동네에 퍼저써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5034.wav|순수한 걷꽈 순진한 건 달라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5035.wav|우리 티므 니번 대회에서 수뉘 아네 몯 뜨러써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5036.wav|저는 수년 동아 나버지와 마를 하지 아나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5037.wav|조심해. 이 수페는 배미 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5038.wav|수프 마시 어때?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5039.wav|냄비에 라면 수프는 반만 너어.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5040.wav|수표로 계산해도 되나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5041.wav|수리하는 데 도니 그리 마니 들 껃 깓찌느 나나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5042.wav|이 책쌍은 무게가 수십 킬로나 돼요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5043.wav|수시로 저장하는 거 읻찌 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5044.wav|수술하시기 저네느 나무걷또 드시며 난 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5045.wav|나이는 숟짜에 불과한 검니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5046.wav|한구게서 바븐 보통 숟까라그로 머거요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5047.wav|제발 수염 좀 까끄세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5048.wav|사실 저는 수영할 쭐 몰라요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5049.wav|이 수영보근 너무 야해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5050.wav|수영장 바다게 바리 안 다아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5051.wav|현재 주택 쑤요가 공그베 비해 낟씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5052.wav|저는 매주 수요일 저녀게 수어비 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5053.wav|잠시 쉬지 그래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5054.wav|저느 노늘 쉬는 나리에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5055.wav|저히느 눠료일마다 쉬어요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5056.wav|저는 감기에 걸리면 코로 수믈 몯 쒸어요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5057.wav|그는 쉬니 훨씬 너머 보엳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5058.wav|조은 부모가 되는 건 절대 쉬우 니리 아니에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5059.wav|나 지금 샤워하고 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5060.wav|이 셔츠 구멍 나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5061.wav|쇼가 끈나면 배우들과 사지늘 찌그실 쑤 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5062.wav|남자드른 보통 쇼핑을 그리 조아하지 아나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5063.wav|근처에 이십싸 시가 녀는 슈퍼마케 딘나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5064.wav|고춛까루
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5065.wav|나문닙
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5066.wav|낸물
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5067.wav|뭔가 타는 냄새 나지 아나?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5068.wav|십 뻔 버스를 타세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5069.wav|막껄리에 무를 탄나 봐. 너무 싱거워.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5070.wav|커피 타 줄까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5071.wav|추석 때 보너스 타써요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5072.wav|저는 그 사라미 나이 어리 녀자드를 대하는 태도가 마으메 안 드러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5073.wav|저는 서우레서 태어낟찌만 부사네서 자라써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5074.wav|둘 중 하나를 태카세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5075.wav|우리나라에느 너려쓸 때 태권도를 배우는 경우가 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5076.wav|지가블 택씨에 두고 내려써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5077.wav|한구긔 면멷 탤런트드른 중구게서 크게 인기가 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5078.wav|매년 태풍으로 인한 재산 피해가 심가캐요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5079.wav|학꾜까지 좀 태워 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5080.wav|허라 겁씨 쓰레기를 태우며 난 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5081.wav|내이른 내이릐 태양이 뜰 꺼야!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5082.wav|그 사라믄 타고난 가수야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5083.wav|여기에 오기로 결정하신 건 타궐한 선태기어써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5084.wav|그 사라믄 제 타이비 아니에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5085.wav|그 사라믄 화가 나서 무늘 탁 따다 버려써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5086.wav|더위 때무네 수미 탕 마켜요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5087.wav|지지니 나면 탁짜 미테 수므라고 배워써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5088.wav|탁꾸 한 게이 머때?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5089.wav|이 가모글 탈출하는 거슨 거의 기저게 가까워요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5090.wav|우주의 탄생으 나직또 미스터리예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5091.wav|이 타븐 노피가 얼마나 됨니까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5092.wav|저히가 느슨 거슨 전부 제 타심니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5093.wav|네 사라미 안즐 테이브 린나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5094.wav|채기 찌저저써. 테이프 이써?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5095.wav|테이프 처으므로 다시 가마써?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5096.wav|우리 애는 텔레비전 보는 걸 러무 조아해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5097.wav|다음 주 모교이레 나하고 테니스 칠래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5098.wav|배고플 텐데, 밤 머그러 가자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5099.wav|조 미따 차즈러 올 테니까 이 짐 좀 잠시 마타 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5100.wav|기뻐서 심장이 터질 껃 까타요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5101.wav|전쟁이 터질까 무서워요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5102.wav|면도를 하다가 터기 베써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5103.wav|네가 알 터기 업찌.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5104.wav|우리 집 깡아지는 터리 아주 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5105.wav|이부레 먼지가 너무 마나. 좀 터러 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5106.wav|강도가 은행을 터럳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5107.wav|내이 라치메는 버스 터미널로 아버지 마중 나가야 해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5108.wav|기차가 터너를 통과하고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5109.wav|냉장고가 텅 비어써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5110.wav|여드르믈 터뜨리지 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5111.wav|그 아이는 풍서니 터지자 우르믈 터뜨렫따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5112.wav|테스트 결과 임시니 아니어써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5113.wav|그 사라믄 좀 트기한 데가 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5114.wav|야외에 나오니 가스미 탁 트이는 느끼미에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5115.wav|날씨가 추워지기 시자카네요. 트키 바메느뇨.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5116.wav|방송 중에는 특쩡 상표가 저키 노스 리브며 난 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5117.wav|기엉나는 다른 특찡으 넘나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5118.wav|그 사람들 특끄 포테레서 결혼시 칸대요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5119.wav|이번 다레는 특뼐 보너스를 바다써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5120.wav|이번 주마레 특뼐한 계회 기써?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5121.wav|특뼐히 찬는 물거니 이쓰세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5122.wav|저히 제푸믜 특썽을 설명해 드리겓씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5123.wav|특쑤 포장은 처 눠니 추가됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5124.wav|다음 사거리에서 오른쪼그로 틀면 병워니 나와요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5125.wav|선풍기 좀 트러 줘.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5126.wav|으막 틀까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5127.wav|이런, 가사가 틀려써요!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5128.wav|더 조은 방버비 틀리멉씨 이쓸 꺼야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5129.wav|엄마한테 무스 니리 인는 게 틀리멉써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5130.wav|커튼 좀 다시 처 줄래? 틈 사이로 핻삐치 드러와.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5131.wav|요즈믄 바빠서 운동할 트미 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5132.wav|이 의자느 나주 튼튼해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5133.wav|트러게 지미 너무 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5134.wav|티브이에 추련해쓸 때 떨리지 아나써요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5135.wav|티켇꽈 신분증을 꺼내 주시기 바람니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5136.wav|저느 누리 티메서 제일 키가 자가요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5137.wav|어제 사 니 티셔츠를 교환하고 시픈데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5138.wav|먼저 퇴근할게요. 내일 봐요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5139.wav|얼른 퇴원하시기를 바람니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5140.wav|어젣빠메 수를 러무 마니 마셛떠니 토할 껃 까타.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5141.wav|옌날 사람드른 다레 토끼가 산다고 미더써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5142.wav|양파하고 토마토 멷 깨, 우유가 피료해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5143.wav|십 토니 넘는 트러그 니 도로르 리용할 쑤 업씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5144.wav|안 쓰는 물건 다마 노을 통 좀 가저와 봐.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5145.wav|요즘 통 임마시 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5146.wav|전화 한 통 써도 될까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5147.wav|내 생가게는 피아노가 무늘 통과하지 모탈 껃 까타.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5148.wav|통계르 롼전히 미들 쑤느 넙써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5149.wav|이 건무른 공기가 자 란 통하는 걷 까타요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5150.wav|이 문장은 뜨시 안 통해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5151.wav|그런 변명으 난 통해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5152.wav|공사 때무네 통행에 불펴늘 드려 죄송함니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5153.wav|이번 달 마레 두 부서를 통하파 례정임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5154.wav|지호하고 통화하고 시픈데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5155.wav|통화 중이에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5156.wav|시가니 별로 업쓰니 주무늘 한 가지로 통일하자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5157.wav|통장을 가저오션나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5158.wav|인가는 날씨의 변화를 통제할 쑤 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5159.wav|어젣빰부터 가스메 통증이 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5160.wav|통노 쪽 쫘서그로 부타캄니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5161.wav|이메이른 효과저긴 통신 수다니에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5162.wav|한구게서는 택씨에서 무료로 통역 써비스를 제공해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5163.wav|오늘 토로는 주제가 뭐예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5164.wav|이번 주 토요이 로후에는 수어비 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5165.wav|아지 결매를 따지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5166.wav|그 사라믄 미구게서 박싸 하귀를 따써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5167.wav|이게 너 어려쓸 때 사지니야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5168.wav|아무 때나 괜차나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5169.wav|저는 모굑탕에 안 가고 지베서 때를 미러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5170.wav|어제는 비가 왇끼 때무네 외추를 하지 아나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5171.wav|아이가 아무리 잘모슬 해써도 때리는 거스 놀치 안씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5172.wav|그 사람도 때로는 실수를 해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5173.wav|때때로 소나기가 예상됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5174.wav|이 신발 저한테 땅 마자요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5175.wav|가기 저네 따 칸 잔만 더 하자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5176.wav|빵이 너무 딱따캐서 씨블 쑤가 업써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5177.wav|우리 지븐 딸만 세시에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5178.wav|싱싱한 딸기를 좀 사고 시퍼요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5179.wav|손바다게서 따미 나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5180.wav|미안, 잠시 딴 생가글 하고 이써써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5181.wav|땅에 바리 다치 아나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5182.wav|땅콩 좀 더 주실 쑤 인나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5183.wav|그는 땅바다게 주저안잗따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5184.wav|땅소게는 자근 벌레드리 마니 산다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5185.wav|따니미 멷 싸린가요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5186.wav|왜 자꾸 내 뒤를 따라다니는 거야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5187.wav|먼저 가. 따라갈게.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5188.wav|강의를 따라갈 쑤가 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5189.wav|따라이가 오늘 소풍을 가요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5190.wav|저를 따라오세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5191.wav|너느 나지 거려. 따라서 부모니믜 마를 따라야 해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5192.wav|제가 한 잔 따르겓씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5193.wav|오느르 넘마를 따라 배콰저메 가써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5194.wav|이버네는 당시 늬겨네 따르겓씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5195.wav|저는 부모니미랑 따로 사라요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5196.wav|난 따뜨탄 날씨가 조아.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5197.wav|저는 두 소늘 떼고 자전거를 탈 쑤 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5198.wav|떠들고 시프면 딴 데로 가라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5199.wav|부어케 떠기 조 미써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5200.wav|떡꾸근 설라레 멍는 전통 음시기에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5201.wav|떡뽀끼는 대표저긴 길거리 음시기에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5202.wav|떨지 말고 침차캐.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5203.wav|너무 떨려서 아무 생각또 안 나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5204.wav|언제 한구그로 떠나세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5205.wav|떠나간 사람 기다려도 아무 소용 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5206.wav|지블 떠나온 지 얼마나 되얻씀니까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5207.wav|이 사지늘 보며 너릴 때가 떠올라요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5208.wav|떠오르는 태양
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5209.wav|조은 생가기 떠올랃따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5210.wav|저는 자다가 침대에서 잘 떠러저요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5211.wav|시허메서 떠러저서 기부니 우울해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5212.wav|젇까라글 떠러뜨련는데 다른 걸로 바꿔 주실래요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5213.wav|나는 마치 공중에 떠 인는 드탄 느끼미 드럳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5214.wav|아버지는 해가 뜨기도 저네 이를 시자카세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5215.wav|누늘 떠!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5216.wav|회의 중에는 자리를 뜨지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5217.wav|뜨거운 무리 안 나와요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5218.wav|뜨레서 아이드리 뛰놀고 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5219.wav|무슨 뜨시야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5220.wav|여기서 너를 만나다니 정말 뜯빠낀데!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5221.wav|얼른 봉투를 뜨서 봐.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5222.wav|이리 뜯때로 자 란 되네.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5223.wav|환자의 상태가 누네 띠게 조아저써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5224.wav|이 두 다너는 띠어야 해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5225.wav|우리는 배를 호수에 띠웓따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5226.wav|커피 가겨기 또 올라써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5227.wav|그녀느 녜쁘고 또 옫또 자 리버요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5228.wav|너는 또다시 가튼 잘모슬 저질러써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5229.wav|그걷 또한 문제지.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5230.wav|그 사라믄 지위도 읻꼬 또한 돈도 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5231.wav|나라도 똑까치 해쓸 꺼야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5232.wav|너는 고등학꾜 때랑 똑깓꾸나!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5233.wav|똑빠로 가다가 왼쪼그로 도세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5234.wav|혼자 중얼거리지 말고 똑빠로 말해라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5235.wav|아드니미 참 똑또카구뇨.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5236.wav|전구기 차차 흐려저 눈 또는 비가 오겓씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5237.wav|제발 치약 쓰고 나면 뚜껑 좀 다다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5238.wav|그녀느 냥쪽 뀌를 모두 뚜럳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5239.wav|이 오 디브니까 나 뚱뚱해 보이지 아나?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5240.wav|요즘 십때드른 개성이 뚜려태요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5241.wav|뱅 미터를 멷 초에 뛰세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5242.wav|소파 위에서 뛰지 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5243.wav|심장이 정말 빨리 뛰어요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5244.wav|수영장 주위를 뛰어다니며 난 돼.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5245.wav|빨리 바다에 뛰어들자!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5246.wav|어디를 그러케 뛰어가세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5247.wav|그 사라므 뉴머 감가기 뛰어나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5248.wav|그 사라므 뉵 층에서 뛰어내려 자살핻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5249.wav|그는 화가 나서 사무실 바끄로 뛰어나갇따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5250.wav|사람드른 땅이 흔들리는 거슬 르끼고 건물 바끄로 뛰어나왇따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5251.wav|예상을 뛰어너머 우리 티미 승니핻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5252.wav|시고레느 나이드리 뛰어놀 쑤 인는 공가니 충분히 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5253.wav|지베서 여기까지 계속 뛰어와써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5254.wav|그 사라믄 주시게 투자핻따가 전 재사늘 랄렫따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5255.wav|무리 어찌나 투명한지 바다기 다 보여요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5256.wav|누구한테 투표할 쌩가기세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5257.wav|조심해! 기르미 튀자나!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5258.wav|공이 자 란 튀어요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5259.wav|저느 나내의 튀어나오 니마가 조아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5260.wav|아이가 골목끼레서 튀어나와서 사고가 날 뻔해써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5261.wav|생서늘 튀기다
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5262.wav|물 튀기지 안케 조심하세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5263.wav|아이드른 대개 공 튀기는 걸 조아해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5264.wav|너 그 감자 튀김 다 머글 꺼야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5265.wav|지브 라주 우아하게 잘 꾸미션네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5266.wav|우체구근 커피숍 까는 기레 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5267.wav|서울 시내의 우체통 수가 점점 주러들고 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5268.wav|화나게 하 릐도느 나니어써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5269.wav|다르 늬겨 닌는 분 계세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5270.wav|의사 마레 의하면 저느 눈동 부조기래요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5271.wav|그 병은 모기에 의해 발생한다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5272.wav|감기는 현대 의하그로 고칠 쑤가 업따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5273.wav|이 의자 좀 치워 주실래요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5274.wav|남펴느 늬지가 강한 사라미에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5275.wav|힘들 때 의지할 싸라미 업써서 외로워요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5276.wav|한국 꼉제느 녠날부터 수추레 의존해 와써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5277.wav|이 표시는 무스 늬미예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5278.wav|우리는 모두 버블 지키 릐무가 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5279.wav|오랜 시가니 지낟찌만 한 가지 의무니 나마 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5280.wav|너하고 의논할 께 이써서 와써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5281.wav|시허미 의외로 쉬워써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5282.wav|남성 의류는 삼 층에 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5283.wav|의사 선생님, 문제가 뭔가요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5284.wav|저느 나직 껼혼하 릐사가 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5285.wav|아내는 미구기니지마 누리느 늬사소통에 전혀 문제가 업씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5286.wav|할머니는 수술 후에 바로 의시글 회보카셔써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5287.wav|여자드른 남자들보다 나믜 누느 릐시카는 걷 까타요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5288.wav|지금 나 릐심하는 거야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5289.wav|그 사라므 나내와 헤어진 후 살믜 의요그 리러버린 걷 까타요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5290.wav|하 녀자 때무네 우리 두릐 우정에 그미 갇따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5291.wav|우주 여행은 더 이상 꾸미 아니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5292.wav|왜 아무걷또 아니 닐로 우러?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5293.wav|여기에 도차카면 베르 룰려 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5294.wav|파르 룸지겨 보세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5295.wav|움지기지 마.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5296.wav|당시니 누느 룸지기면 카메라가 그 움지기믈 따라갈 껌니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5297.wav|우니 참 조으시네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5298.wav|깨지기 쉬우니까 조심해서 운반해 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5299.wav|너느 눈동을 좀 해야 해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5300.wav|이 운동화는 등산할 때도 시늘 쑤 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5301.wav|운동장에느 나무도 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5302.wav|운저느 로래 핻떠니 좀 피곤하네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5303.wav|양쪼 군전자 모두 사고에 채기미 이썯따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5304.wav|제가 남편과 만난 거스 눈명이어써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5305.wav|저는 조그만 회사르 루녕하고 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5306.wav|전화나 우펴느로 결과르 랄려 드리겓씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5307.wav|아, 우편번호 정는 걸 깜빠캐써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5308.wav|우편하메느 나무걷또 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5309.wav|우표르 려기에 부치시오.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5310.wav|우표느 너디서 살 쑤 읻쬬?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5311.wav|아기가 우르므 란 그처요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5312.wav|우리 집 찬는 데 힘들지느 나난니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5313.wav|우리마르 라끼고 사랑합씨다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5314.wav|우리나라에서는 태어나면 바로 한 사리에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5315.wav|오늘 학꾜에 우산 가지고 완니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5316.wav|우선 경차레 신고부터 하자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5317.wav|그 애의 욷낀 표정을 보고 우스믈 차믈 쑤가 업써써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5318.wav|이제 다음 문제를 마치시면, 우승하시게 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5319.wav|뭐가 그러케 우슴니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5320.wav|내가 그러케 우스워 보여?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5321.wav|이 학쌩은 제가 가르친 중에서 가장 우수한 학쌩임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5322.wav|저는 사람드르 룯끼는 게 조아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5323.wav|그 영화느 눋끼면서 동시에 감동저기다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5324.wav|이거 누스 리리 아니야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5325.wav|크리스마스를 혼자 보내는 건 차 무울하 니리야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5326.wav|우리가 대저네서 다시 만난 건 정마 루여니어써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5327.wav|어제 기레서 우연히 고등학꾜 때 다밈 선생니믈 만나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5328.wav|우유 한 잔 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5329.wav|사과와 레모는 비타미니 풍부해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5330.wav|누구와 일하는지는 중요하지 아나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5331.wav|와! 이 노래 정말 조은데!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5332.wav|제가 왜 이 남자랑 결혼핸는지 모르게써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5333.wav|왠지 기부니 이상해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5334.wav|젇찌만 괜차나요. 왜냐하며 누리는 최서늘 다해쓰니까요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5335.wav|와인 한 잔 할래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5336.wav|이 와이셔츠 내일까지 드라이 좀 해 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5337.wav|세상에 완벼칸 버녀그 넙써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5338.wav|손니므 놩이다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5339.wav|엄마느 나버지에게 왕비 대저블 받꼬 사세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5340.wav|어리 놩자느 누리나라에서 가장 인기 인느 뇌국 쏘설 중 하나예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5341.wav|이거 놘전한 문장이 아닌데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5342.wav|그 사라므 닌기르 럳떠니 완전히 달라저써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5343.wav|주어진 다너드르 리용해 문장으 롼성하시오.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5344.wav|그 빌딩으 놀 겨울쯔메 완성되 례정임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5345.wav|이르 나침부터 웬 전화니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5346.wav|웬 남자가 대무 나페서 널 기다리던데.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5347.wav|웬만하면 네가 차마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5348.wav|오느 리러케 일찌 겨기 오다니 웨니리야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5349.wav|네 핸드포는 책쌍 위에 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5350.wav|위로 올라와.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5351.wav|누나는 저보다 네 사 뤼예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5352.wav|저느 뉘가 안 조아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5353.wav|저는 사 뮈를 목표로 하고 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5354.wav|이 오 뒤아래를 따로 살 쑤느 넘나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5355.wav|신호 위반하셛씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5356.wav|손님 좌서그 뉘층에 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5357.wav|지븐 괜차는데 위치가 마으메 안 드러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5358.wav|사랑의 히므 뉘대하다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5359.wav|이번 경제 위기느 노래 계속뙬 꺼시다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5360.wav|너 뤼해 뭐든 할게.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5361.wav|운전하면서 전화하는 거스 뉘험해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5362.wav|음주 운저는 다른 사라믜 생명으 뤼혀파는 행위임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5363.wav|다음 페이지의 위쪼글 보세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5364.wav|저히 바는 회화 위주로 수어블 함니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5365.wav|지금 그 선수에게 피료한 거슨 따뜨타 뉘로예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5366.wav|올해는 추서기 며 둬레 읻찌?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5367.wav|다으 뭘드커브 너느 나라에서 열리죠?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5368.wav|저는 제 월그베 만조캐요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5369.wav|우리 계회그 눨래대로 진행되고 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5370.wav|다 쓴 후에느 눨래 읻떤 고세 갇따 둬라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5371.wav|월세가 얼마예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5372.wav|여기 잔돈 삼배 궈님니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5373.wav|요즈 뭐낙 빠빠서 부모님께 전화도 드리지 모태써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5374.wav|원고느 누펴느로 보내 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5375.wav|도대체 네가 원하는 게 뭐야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5376.wav|흐벼느 나믜 주요 워닌 중 하나다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5377.wav|제 월루메 노을 쏘파를 찯꼬 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5378.wav|원숭이도 나무에서 떠러질 때가 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5379.wav|저느 눠료일만 되면 회사에 가기가 시러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5380.wav|야, 말 조심해!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5381.wav|철수야, 무슨 생가카고 인니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5382.wav|그 사라믄 참 조은 사라미야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5383.wav|두 사람 친구 아니야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5384.wav|과일하고 야채를 마니 드셔야겐네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5385.wav|어제 숙쩨르 란 해서 선생님한테 야다늘 마자써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5386.wav|벼리 라닌 거 가지고 왜 야다니야?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5387.wav|얘가 저네 말한 걔예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5388.wav|야구 패 녀러분 반갑씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5389.wav|그 사라므 냐한 농다믈 자주 해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5390.wav|식싸하고 삼십 뿐 후에 이 야글 드세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5391.wav|아치 밀곱 씨에 출발해서 양 네 시간 후에 도차캐써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5392.wav|야기 올라 죽께써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5393.wav|우리 티믄 수비가 야캐요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5394.wav|나믜 약쩌므 리용하지 마라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5395.wav|약까늬 문제가 생겨써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5396.wav|이 블라우스 저한테 약깐 커요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5397.wav|약꾸근 바로 병워 녀페 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5398.wav|야콘 추카해!
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5399.wav|죄송하지마 냑쏘글 래일로 미룰 쑤 이쓸까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5400.wav|조용히 읻껟따고 약쏘칼게요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5401.wav|저 남자 얄미워 죽께써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5402.wav|왜 겨우레 얄브 노스 립꼬 인냐?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5403.wav|양은 푸를 먹꼬 산다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5404.wav|양보다는 지리다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5405.wav|가위로 양 끄슬 잘라 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5406.wav|노이네게 자리르 량보하세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5407.wav|이 넥타이는 네 양보기랑 자 러울릴 꺼야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5408.wav|양쪽 따리가 부언네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5409.wav|나느 냥주보다 소주가 조아.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5410.wav|이 양말 다른 한 짜기 안 보여.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5411.wav|한국 싸람드르 냥녁꽈 음녀글 모두 사용해요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5412.wav|양녀므 넌제 너어요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5413.wav|출구는 비행기의 양여페 위치해 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5414.wav|양파 좀 까 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5415.wav|양시그 너디에서 어들 쑤 인나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5416.wav|한싱 머글래, 아니며 냥싱 머글래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5417.wav|이버 니른 네 양시메 맏낄게.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5418.wav|오늘 점시므 냐외에서 멍는 게 어때요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5419.wav|무리 야타서 바리 바다게 다아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5420.wav|예를 드러 설명해 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5421.wav|감기르 례방하려면 소늘 자주 씨서라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5422.wav|마니르 뤼해서 도느 례비로 남겨 둬라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5423.wav|이 사라미 제 예비 신부임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5424.wav|요즘 날씨느 녜츠칼 쑤가 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5425.wav|사실 지난주에 면저블 봔는데, 예가미 조아.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5426.wav|얼마나 예금하실 껀가요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5427.wav|이러케 예고도 업씨 차자오시며 너떠캐요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5428.wav|예의 좀 지켜라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5429.wav|그 사라믄 식타 계저리 엉망이야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5430.wav|내 생가게느 누리 예저네 이 얘기를 한 걷 까튼데.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5431.wav|예정보다 약깐 느서지고 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5432.wav|회의는 내일로 예정되어 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5433.wav|제가 인터네스로 예매할게요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5434.wav|옌날 주소느 너떠케 되심니까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5435.wav|어제 기레서 옌나 려자 친구르 루연히 만나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5436.wav|그 사라믄 술자리에서 자기 옌나리야기로 사람드를 지루하게 만든따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5437.wav|심심해 죽께써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5438.wav|그 사라므 녕어를 잘해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5439.wav|그 문제에 대해 어떠케 생가캐?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5440.wav|얼른 말해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5441.wav|여보, 도시에 사는 게 지겹찌 아나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5442.wav|여보세요, 소영이 인나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5443.wav|우리 누나느 녀대생이에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5444.wav|시허므 녀덜 씨에 시자캄니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5445.wav|할머니느 놀해 여드니세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5446.wav|저는 등에도 여드르미 나써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5447.wav|부타 카나 해도 될까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5448.wav|여동생에게 조럽 썬물로 최신 핸드포늘 사 줘써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5449.wav|예외 엄는 규치그 넙따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5450.wav|여가 시가넨 뭐 해?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5451.wav|그 사람하고 십 뿌 니상 가 냬기한다는 게 나로서느 녀간 힘드 니리 아냐.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5452.wav|여기서 뭐 해?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5453.wav|여기 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5454.wav|이거슨 제가 가장 소중하게 여기는 작푸밈니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5455.wav|여기저기서 사람드리 모여드러써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5456.wav|아지 겨기저기 이력써를 래고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5457.wav|저느 녀려섣 싸 려고생이에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5458.wav|이 여과는 서비스가 별로예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5459.wav|여행 잘 갇따 와.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5460.wav|여행사가 모드 녀행 준비르 라라서 해 줘써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5461.wav|우리 바는 남학쌩보다 여학쌩이 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5462.wav|내 평생 그러 녀자는 다시 몬 만날 꺼야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5463.wav|부지런한 거 녀전하구나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5464.wav|어제 아홉 씨가늘 잔는데도 여전히 피곤해.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5465.wav|여지궈니 전체의 오 오십 퍼센트 정도 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5466.wav|한 가지 여쭤 봐도 될까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5467.wav|역 끈처에 추천할 만한 호테리 인나요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5468.wav|저느 니번 드라마에서 왕비 여글 마탇씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5469.wav|오늘랄 작까의 사회저 겨카른 무어시라고 생가카세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5470.wav|우리 회사는 근무 여거니 조은 펴님니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5471.wav|여궈늘 좀 볼 쑤 이쓸까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5472.wav|저는 동양의 역싸에 관시미 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5473.wav|내 친구 중에느 녁싸하글 전공한 사라미 하나 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5474.wav|이 영화느 녁싸적 싸시를 바탕으로 하고 이써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5475.wav|그거스 녁싸상 가장 충격쩌긴 사건 가운데 하나엳따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5476.wav|나 역씨 너와 가튼 생가기야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5477.wav|역씨 예상핻떤 대로구나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5478.wav|여리 계송 나면 내일 다시 오세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5479.wav|배터리르 렬 근처에 두지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5480.wav|그 사람 때무네 정마 렬 바다요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5481.wav|우리 부모니믄 제가 열 살 때 이혼하셔써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5482.wav|이 열차는 잠시 후 서울려게 도차캄니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5483.wav|지그 며러 봐도 될까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5484.wav|멷 씨까지 무 녀세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5485.wav|이제 열흘마 니쓰며 놀해도 끈나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5486.wav|우리 사장니믄 교유게 대하 녈정이 남다르세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5487.wav|따라이느 너찌나 게이메 열중핻떤지 제가 다가가는 걷또 몰라써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5488.wav|우리 계소 결라카고 지내자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5489.wav|열락처 조 말 쑤 이쓸까요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5490.wav|창무니 아 녈려요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5491.wav|이번 행사는 사 밀간 서우레서 열려요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5492.wav|열령에 관계업씨 누구나 지원할 쑤 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5493.wav|아지 결매를 따며 난 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5494.wav|다음 버넨 공부 더 열심히 할게요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5495.wav|열쇠 아직또 몯 차자써요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5496.wav|염녀 마세요. 내일 조은 소시기 이쓸 꺼예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5497.wav|저히느 녀내한 지 이 년 마네 결혼해써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5498.wav|그 사라미 이 연그긔 연추를 맏꼬 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5499.wav|뱅마네 영이 멷 깨지?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5500.wav|과자를 머걷떠니 영 밤마시 업써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5501.wav|연가 노뱅만 명의 외구긴 관광객뜨리 서우를 방문하고 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5502.wav|영어 할 쭈 라세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5503.wav|저히느 니십싸 시가 녕어팜니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5504.wav|정상 영업 쭝
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5505.wav|어제 보 년그 거때써?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5506.wav|일 련 동아 녕구게서 살 꼐회기에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5507.wav|아침 기오니 영하로 떠러젇따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5508.wav|영호니 정말 존재할까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5509.wav|그냥 지베서 영화 보자.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5510.wav|제일 조아하느 녕화배우가 누구예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5511.wav|영화과네서 전화기를 꺼 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5512.wav|아이드른 부모의 영향을 받께 되어 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5513.wav|김 부장으 누리 회사에서 영향녀기 인는 사라미다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5514.wav|연기가 너무 마니 나는 걷 까타요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5515.wav|그 여자의 연기느 놴지 자연스럽찌가 아나.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5516.wav|왜 회의르 련기핻씀니까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5517.wav|재파는 다음 주로 연기돼써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5518.wav|저느 너릴 때부터 연기자의 꾸믈 꾸어 와써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5519.wav|이 티브이느 나주 깨끄타 녕상을 제공함니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5520.wav|지그므 녕상 이 도예요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5521.wav|영수증이 업쓰면 교화니 안 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5522.wav|저 아메 대해 연구하고 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5523.wav|연구잘드른 키스가 감기와 상과니 업따는 결로늘 래렫따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5524.wav|이승후느 놀림피게서 금메다를 획뜨칸 뒤 국까저 경웅이 되얻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5525.wav|저늘 로보 뎐구소에서 일하고 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5526.wav|마는 교통사고가 직쩝쩍, 간접쩌그로 술과 괄려니 읻씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5527.wav|기어그 넙써지지만 사지느 녕원한 거야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5528.wav|그 이른 내 기어게서 영원히 지워 버리고 시퍼.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5529.wav|이 음시그 녕양이 풍부하다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5530.wav|그건 제 영역 빠끠 이리에요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5531.wav|담당자르 련결해 드리겓씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5532.wav|그 두 서믄 다리로 연결되어 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5533.wav|좀 더 연한 색까 럽써요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5534.wav|고기가 차 면하네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5535.wav|연휴 잘 보내세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5536.wav|이 노래느 녀닌드리 가치 부르기에 조아.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5537.wav|제 여궈느 련장하고 시픈데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5538.wav|저느 년주할 쭈 라느 낙끼가 하나도 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5539.wav|연마레는 술자리가 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5540.wav|연필로 써도 됨니까?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5541.wav|어머니 몰해 연세가 어떠케 되세요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5542.wav|대통녕이 구쾨의원드 라페서 연서를 핻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5543.wav|연스팔 씨가니 만치르 라나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5544.wav|그 사라믜 인생은 불행의 연소기얻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5545.wav|이트 련속 빰새웓떠니 피곤해 죽께써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5546.wav|사실 대부부늬 여녜인드른 수이비 만치 안타.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5547.wav|네 여페 인는 남자 애는 누구니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5548.wav|엽찌븐 다음 다레 이사 간대요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5549.wav|엽쪼그로 좀 가 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5550.wav|오랜마네 달리기를 핻떠니 엽꾸리가 아파요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5551.wav|부모니미 엽빵에 계세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5552.wav|런더네 도차카며 녑써 보내는 거 읻찌 마.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5553.wav|피료한 게 이쓰면 말해라.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5554.wav|여러 나라를 가 보고 시퍼요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5555.wav|안녕하세요, 여러분.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5556.wav|라며느 녀러시 머그면 더 마신는 거 가타.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5557.wav|이버 녀르메는 제주도에 갈 쌩가기야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5558.wav|여름처레느 늠시기 쉽께 상한다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5559.wav|어떤 정부도 여로늘 무시하고 존재할 쑤 업따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5560.wav|우리는 두 시에 도차캐서 한 시간 뒤에 떠낟따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5561.wav|어젣빠믄 너무 취해서 아무걷또 기어기 안 나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5562.wav|당시니 여성으로서는 처음 뽀핀 거라고 드럳씀니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5563.wav|남펴는 저보다 여섣 싸 러려요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5564.wav|그드른 가난핻찌만 행보캗따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5565.wav|누가 자꾸 나 렫뽀는 기부니 드러요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5566.wav|여자가 왜 여우나 곰과 상과니 인는 거예요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5567.wav|오느 려왕 가튼데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5568.wav|건강해야 일도 할 쑤 읻쬬.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5569.wav|서두르지 마. 아지 겨유 이써.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5570.wav|긴장하지 말고 여유를 가저.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5571.wav|이 옫 쩡마 례쁘지 안니?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5572.wav|예사니 부조칸데 어떠카죠?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5573.wav|제 예상보다 훨씨 너려워써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5574.wav|오늘 바메는 소나기가 예상됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5575.wav|매녀 노십 깨 이상의 학꾜가 예서네 참가한다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5576.wav|그 다음 장 예스패 오세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5577.wav|요즈메느 녜식짱 구하기가 하느릐 별 따기야.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5578.wav|저느 녜수레 대해 아는 게 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5579.wav|뱅남주는 한구기 나으 뉘대하 녜술가여써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5580.wav|이 아이에게서 예술적 째능이 엳뽀임니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5581.wav|아버지느 녜수니 너므셔써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5582.wav|그 노래를 드르며 녣 추어기 떠오른다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5583.wav|죄송하지마 녜야글 취소하고 시픈데요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5584.wav|도니 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5585.wav|이 꼬츤 참 빨리 자라네요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5586.wav|요 근처 아무 데나 내려주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5587.wav|요 며칠 동안 정말 바빠써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5588.wav|우리는 경차레 도우므 료청핻찌만 소용이 업썯따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5589.wav|서우릐 버스 요그므 널마죠?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5590.wav|한구긔 부모드른 자식뜨레게 너무 마는 거스 료구하는 걷 까타요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5591.wav|냉장고에서 요구르트 좀 꺼내 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5592.wav|엄마, 오느리 무스 뇨이리죠?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5593.wav|요즈으 머떠케 지내?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5594.wav|아이드 라페서 요카지 마세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5595.wav|오느 라치 묙씨레서 비누를 밥꼬 미끄러저써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5596.wav|그 사라믄 도네 욕씨미 마나요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5597.wav|회사 차를 개인저기 뇽도로 사용하며 난 됨니다.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5598.wav|범뉴 룡어를 보면 머리가 아파요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5599.wav|걔 보기보다 용감하던데.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5600.wav|그 애에게 데이트 신청하 룡기가 업써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5601.wav|제바 리번 한 번마 뇽서해 주세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5602.wav|엄마, 저 용돈 조 몰려 주시며 난 돼요?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5603.wav|저는 중구 교리가 조아요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5604.wav|미안하지만 지그므 뇨리하느라 너무 바빠요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5605.wav|저히 부모니믄 두 분 다 요리사세요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5606.wav|요새 스트레스를 마니 바다요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5607.wav|상황으 료야캐서 설명해 줄래?
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5608.wav|저느 뉴치워네서 한그를 배워써요.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5609.wav|한국 싸회느 뉴교에 바탕을 두고 읻따.
+/kaggle/input/korean-single-speaker-speech-dataset/kss/4/4_5610.wav|오 려르믄 칠심 년대 패셔니 다시 유행하고 이써요.
