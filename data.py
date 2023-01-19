@@ -90,7 +90,7 @@ class TextMelBatchCollate(object):
 
         for i, item in enumerate(batch):
             y_, x_ = item['y'], item['x']
-            print(y.shape, y_.shape)
+            print(y[i, :, :y_.shape[-1]].shape, y_.shape)
             y_lengths.append(y_.shape[-1])
             x_lengths.append(x_.shape[-1])
             y[i, :, :y_.shape[-1]] = y_
