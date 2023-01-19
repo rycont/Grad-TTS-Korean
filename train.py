@@ -134,41 +134,45 @@ if __name__ == "__main__":
         diff_losses = []
         with tqdm(loader, total=len(train_dataset)//batch_size) as progress_bar:
             for batch_idx, batch in enumerate(progress_bar):
-                model.zero_grad()
-                x, x_lengths = batch['x'].to(device), batch['x_lengths'].to(device)
-                y, y_lengths = batch['y'].to(device), batch['y_lengths'].to(device)
-                dur_loss, prior_loss, diff_loss = model.compute_loss(x, x_lengths,
-                                                                     y, y_lengths,
-                                                                     out_size=out_size)
-                loss = sum([dur_loss, prior_loss, diff_loss])
-                loss.backward()
+                try:
+                    model.zero_grad()
+                    x, x_lengths = batch['x'].to(device), batch['x_lengths'].to(device)
+                    y, y_lengths = batch['y'].to(device), batch['y_lengths'].to(device)
+                    dur_loss, prior_loss, diff_loss = model.compute_loss(x, x_lengths,
+                                                                        y, y_lengths,
+                                                                        out_size=out_size)
+                    loss = sum([dur_loss, prior_loss, diff_loss])
+                    loss.backward()
 
-                enc_grad_norm = torch.nn.utils.clip_grad_norm_(model.encoder.parameters(),
-                                                               max_norm=1)
-                dec_grad_norm = torch.nn.utils.clip_grad_norm_(model.decoder.parameters(),
-                                                               max_norm=1)
-                optimizer.step()
+                    enc_grad_norm = torch.nn.utils.clip_grad_norm_(model.encoder.parameters(),
+                                                                max_norm=1)
+                    dec_grad_norm = torch.nn.utils.clip_grad_norm_(model.decoder.parameters(),
+                                                                max_norm=1)
+                    optimizer.step()
 
-                logger.add_scalar('training/duration_loss', dur_loss.item(),
-                                  global_step=iteration)
-                logger.add_scalar('training/prior_loss', prior_loss.item(),
-                                  global_step=iteration)
-                logger.add_scalar('training/diffusion_loss', diff_loss.item(),
-                                  global_step=iteration)
-                logger.add_scalar('training/encoder_grad_norm', enc_grad_norm,
-                                  global_step=iteration)
-                logger.add_scalar('training/decoder_grad_norm', dec_grad_norm,
-                                  global_step=iteration)
-                
-                dur_losses.append(dur_loss.item())
-                prior_losses.append(prior_loss.item())
-                diff_losses.append(diff_loss.item())
-                
-                if batch_idx % 5 == 0:
-                    msg = f'Epoch: {epoch}, iteration: {iteration} | dur_loss: {dur_loss.item()}, prior_loss: {prior_loss.item()}, diff_loss: {diff_loss.item()}'
-                    progress_bar.set_description(msg)
-                
-                iteration += 1
+                    logger.add_scalar('training/duration_loss', dur_loss.item(),
+                                    global_step=iteration)
+                    logger.add_scalar('training/prior_loss', prior_loss.item(),
+                                    global_step=iteration)
+                    logger.add_scalar('training/diffusion_loss', diff_loss.item(),
+                                    global_step=iteration)
+                    logger.add_scalar('training/encoder_grad_norm', enc_grad_norm,
+                                    global_step=iteration)
+                    logger.add_scalar('training/decoder_grad_norm', dec_grad_norm,
+                                    global_step=iteration)
+                    
+                    dur_losses.append(dur_loss.item())
+                    prior_losses.append(prior_loss.item())
+                    diff_losses.append(diff_loss.item())
+                    
+                    if batch_idx % 5 == 0:
+                        msg = f'Epoch: {epoch}, iteration: {iteration} | dur_loss: {dur_loss.item()}, prior_loss: {prior_loss.item()}, diff_loss: {diff_loss.item()}'
+                        progress_bar.set_description(msg)
+                    
+                    iteration += 1
+
+                except RuntimeError as e:
+                    print("Passing batch due to RuntimeError: ", e)
 
         log_msg = 'Epoch %d: duration loss = %.3f ' % (epoch, np.mean(dur_losses))
         log_msg += '| prior loss = %.3f ' % np.mean(prior_losses)
