@@ -26,6 +26,9 @@ from env import AttrDict
 from models import Generator as HiFiGAN
 
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+
 HIFIGAN_CONFIG = './checkpts/hifigan-config.json'
 HIFIGAN_CHECKPT = './checkpts/hifigan.pt'
 
@@ -40,7 +43,7 @@ if __name__ == '__main__':
     
     if not isinstance(args.speaker_id, type(None)):
         assert params.n_spks > 1, "Ensure you set right number of speakers in `params.py`."
-        spk = torch.LongTensor([args.speaker_id]).cuda()
+        spk = torch.LongTensor([args.speaker_id]).to(device)
     else:
         spk = None
     
@@ -51,7 +54,7 @@ if __name__ == '__main__':
                         params.enc_kernel, params.enc_dropout, params.window_size,
                         params.n_feats, params.dec_dim, params.beta_min, params.beta_max, params.pe_scale)
     generator.load_state_dict(torch.load(args.checkpoint, map_location=lambda loc, storage: loc))
-    _ = generator.cuda().eval()
+    _ = generator.to(device).eval()
     print(f'Number of parameters: {generator.nparams}')
     
     print('Initializing HiFi-GAN...')
@@ -59,7 +62,7 @@ if __name__ == '__main__':
         h = AttrDict(json.load(f))
     vocoder = HiFiGAN(h)
     vocoder.load_state_dict(torch.load(HIFIGAN_CHECKPT, map_location=lambda loc, storage: loc)['generator'])
-    _ = vocoder.cuda().eval()
+    _ = vocoder.to(device).eval()
     vocoder.remove_weight_norm()
     
     with open(args.file, 'r', encoding='utf-8') as f:
@@ -69,8 +72,8 @@ if __name__ == '__main__':
     with torch.no_grad():
         for i, text in enumerate(texts):
             print(f'Synthesizing {i} text...', end=' ')
-            x = torch.LongTensor(intersperse(text_to_sequence(text, dictionary=cmu), len(symbols))).cuda()[None]
-            x_lengths = torch.LongTensor([x.shape[-1]]).cuda()
+            x = torch.LongTensor(intersperse(text_to_sequence(text, dictionary=cmu), len(symbols))).to(device)[None]
+            x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
             
             t = dt.datetime.now()
             y_enc, y_dec, attn = generator.forward(x, x_lengths, n_timesteps=args.timesteps, temperature=1.5,

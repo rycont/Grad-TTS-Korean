@@ -20,6 +20,9 @@ from utils import plot_tensor, save_plot
 from text.symbols import symbols
 
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+
 train_filelist_path = params.train_filelist_path
 valid_filelist_path = params.valid_filelist_path
 cmudict_path = params.cmudict_path
@@ -78,7 +81,7 @@ if __name__ == "__main__":
     print('Initializing model...')
     model = GradTTS(nsymbols, 1, None, n_enc_channels, filter_channels, filter_channels_dp, 
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
-                    n_feats, dec_dim, beta_min, beta_max, pe_scale).cuda()
+                    n_feats, dec_dim, beta_min, beta_max, pe_scale).to(device)
     print('Number of encoder + duration predictor parameters: %.2fm' % (model.encoder.nparams/1e6))
     print('Number of decoder parameters: %.2fm' % (model.decoder.nparams/1e6))
     print('Total parameters: %.2fm' % (model.nparams/1e6))
@@ -104,8 +107,8 @@ if __name__ == "__main__":
         with tqdm(loader, total=len(train_dataset)//batch_size) as progress_bar:
             for batch_idx, batch in enumerate(progress_bar):
                 model.zero_grad()
-                x, x_lengths = batch['x'].cuda(), batch['x_lengths'].cuda()
-                y, y_lengths = batch['y'].cuda(), batch['y_lengths'].cuda()
+                x, x_lengths = batch['x'].to(device), batch['x_lengths'].to(device)
+                y, y_lengths = batch['y'].to(device), batch['y_lengths'].to(device)
                 dur_loss, prior_loss, diff_loss = model.compute_loss(x, x_lengths,
                                                                      y, y_lengths,
                                                                      out_size=out_size)
@@ -152,8 +155,8 @@ if __name__ == "__main__":
         print('Synthesis...')
         with torch.no_grad():
             for i, item in enumerate(test_batch):
-                x = item['x'].to(torch.long).unsqueeze(0).cuda()
-                x_lengths = torch.LongTensor([x.shape[-1]]).cuda()
+                x = item['x'].to(torch.long).unsqueeze(0).to(device)
+                x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
                 y_enc, y_dec, attn = model(x, x_lengths, n_timesteps=50)
                 logger.add_image(f'image_{i}/generated_enc',
                                  plot_tensor(y_enc.squeeze().cpu()),
