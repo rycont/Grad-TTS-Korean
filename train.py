@@ -69,7 +69,7 @@ def get_recent_ckpt():
             epoch = i
             break
 
-    return grad_path, epoch
+    return grad_path, epoch + 1
 
 if __name__ == "__main__":
     torch.manual_seed(random_seed)
