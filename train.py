@@ -61,7 +61,7 @@ pe_scale = params.pe_scale
 
 def get_recent_ckpt():
     grad_path = None
-    epoch = 0
+    epoch = -1
 
     for i in range(n_epochs, 0, -1):
         grad_path = f'{log_dir}/grad_{i}.pt'
@@ -93,7 +93,6 @@ if __name__ == "__main__":
     print('Initializing model...')
 
     grad_path, loaded_epoch = get_recent_ckpt()
-    loaded_epoch = (loaded_epoch + 1) if (loaded_epoch > 0) else 0
 
     model = GradTTS(nsymbols, 1, None, n_enc_channels, filter_channels, filter_channels_dp, 
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
@@ -128,7 +127,7 @@ if __name__ == "__main__":
 
     print('Start training...')
     iteration = 0
-    for epoch in range(1, n_epochs + 1)[loaded_epoch:]:
+    for epoch in range(loaded_epoch, n_epochs + 1):
         model.train()
         dur_losses = []
         prior_losses = []
