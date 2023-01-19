@@ -1,3 +1,7 @@
+# Attention!
+
+This repository is a partial fork of [huawei-noah/Speech-Backbones](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS)
+
 <p align="center">
     <img src="resources/reverse-diffusion.gif" alt="drawing" width="500"/>
 </p>
