@@ -83,6 +83,6 @@ if __name__ == '__main__':
 
             audio = (vocoder.forward(y_dec).cpu().squeeze().clamp(-1, 1).numpy() * 32768).astype(np.int16)
             
-            write(f'./out/sample_{i}.wav', 44100, audio)
+            write(f'./out/sample_{i}.wav', 22050, audio)
 
     print('Done. Check out `out` folder for samples.')
