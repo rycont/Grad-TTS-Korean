@@ -95,7 +95,12 @@ if __name__ == "__main__":
 
     try:
         recent_artifact = wandb.use_artifact("rycont/Grad-TTS KSS/KSS:latest").download()
-        model.load_state_dict(torch.load(recent_artifact))
+        model.load_state_dict(
+            torch.load(
+                recent_artifact,
+                map_location = device
+            )
+        )
         print('Loaded model from wandb')
     except:
         print('Failed to load model from wandb')
