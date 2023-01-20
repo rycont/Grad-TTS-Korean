@@ -9,6 +9,8 @@
 import wandb
 wandb.init(project = "Grad-TTS KSS")
 
+import sys
+sys.path.append('./hifi_gan/')
 from hifi_gan.load import get_hifigan
 
 import numpy as np
