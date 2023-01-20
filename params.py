@@ -25,6 +25,7 @@ hop_length = 256
 win_length = 1024
 f_min = 0
 f_max = 8000
+lang = 'ko'
 
 # encoder parameters
 n_enc_channels = 192

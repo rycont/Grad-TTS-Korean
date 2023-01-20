@@ -1,18 +1,24 @@
 """ from https://github.com/keithito/tacotron """
-
-import re
+from params import lang
 from text.symbols import symbols
+from jamo import h2j
 
 
 _symbol_to_id = {s: i for i, s in enumerate(symbols)}
 _id_to_symbol = {i: s for i, s in enumerate(symbols)}
 
 
+def preprocess(text):
+    if lang == 'ko':
+        return h2j(text)
+    else:
+        raise NotImplementedError
+
 def text_to_sequence(text):
     sequence = []
     space = _symbols_to_sequence(' ')[0]
     
-    text = text.strip()
+    text = preprocess(text.strip())
 
     while len(text):
         sequence += _symbols_to_sequence(text)
