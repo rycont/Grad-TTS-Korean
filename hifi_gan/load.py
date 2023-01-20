@@ -1,7 +1,7 @@
 from hifi_gan.env import AttrDict
+from hifi_gan.models import Generator as HiFiGAN
 import json
 import torch
-from models import Generator as HiFiGAN
 
 def get_hifigan():
     with open('./checkpts/hifigan-config.json') as f:
