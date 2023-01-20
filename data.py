@@ -25,14 +25,13 @@ from meldataset import mel_spectrogram
 
 class TextMelDataset(torch.utils.data.Dataset):
     def __init__(self, filelist_path, cmudict_path, add_blank=True,
-                 n_fft=1024, n_mels=80, sample_rate=22050,
+                 n_fft=1024, n_mels=80,
                  hop_length=256, win_length=1024, f_min=0., f_max=8000):
         self.filepaths_and_text = parse_filelist(filelist_path)
         self.cmudict = cmudict.CMUDict(cmudict_path)
         self.add_blank = add_blank
         self.n_fft = n_fft
         self.n_mels = n_mels
-        self.sample_rate = sample_rate
         self.hop_length = hop_length
         self.win_length = win_length
         self.f_min = f_min
@@ -48,8 +47,11 @@ class TextMelDataset(torch.utils.data.Dataset):
 
     def get_mel(self, filepath):
         audio, sr = ta.load(filepath)
-        assert sr == self.sample_rate
-        mel = mel_spectrogram(audio, self.n_fft, self.n_mels, self.sample_rate, self.hop_length,
+
+        if sr != 22050:
+            audio = ta.transforms.Resample(sr, 22050)(audio)
+
+        mel = mel_spectrogram(audio, self.n_fft, self.n_mels, self.hop_length,
                               self.win_length, self.f_min, self.f_max, center=False).squeeze()
         return mel
 
@@ -105,14 +107,13 @@ class TextMelBatchCollate(object):
 
 class TextMelSpeakerDataset(torch.utils.data.Dataset):
     def __init__(self, filelist_path, cmudict_path, add_blank=True,
-                 n_fft=1024, n_mels=80, sample_rate=22050,
+                 n_fft=1024, n_mels=80,
                  hop_length=256, win_length=1024, f_min=0., f_max=8000):
         super().__init__()
         self.filelist = parse_filelist(filelist_path, split_char='|')
         self.cmudict = cmudict.CMUDict(cmudict_path)
         self.n_fft = n_fft
         self.n_mels = n_mels
-        self.sample_rate = sample_rate
         self.hop_length = hop_length
         self.win_length = win_length
         self.f_min = f_min
@@ -130,8 +131,11 @@ class TextMelSpeakerDataset(torch.utils.data.Dataset):
 
     def get_mel(self, filepath):
         audio, sr = ta.load(filepath)
-        assert sr == self.sample_rate
-        mel = mel_spectrogram(audio, self.n_fft, self.n_mels, self.sample_rate, self.hop_length,
+
+        if sr != 22050:
+            audio = ta.transforms.Resample(sr, 22050)(audio)
+
+        mel = mel_spectrogram(audio, self.n_fft, self.n_mels, 22050, self.hop_length,
                               self.win_length, self.f_min, self.f_max, center=False).squeeze()
         return mel
 
