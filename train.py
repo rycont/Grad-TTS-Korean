@@ -94,10 +94,10 @@ if __name__ == "__main__":
     hifigan = get_hifigan()
 
     try:
-        recent_artifact = wandb.use_artifact("rycont/Grad-TTS KSS/KSS:latest").download()
+        artifact_path = wandb.use_artifact("rycont/Grad-TTS KSS/KSS:latest").download() + "/model.pt"
         model.load_state_dict(
             torch.load(
-                recent_artifact,
+                artifact_path,
                 map_location = device
             )
         )
@@ -219,7 +219,7 @@ if __name__ == "__main__":
 
         ckpt = model.state_dict()
 
-        save_path = f"{log_dir}/grad_{epoch}.pt"
+        save_path = f"{log_dir}/model.pt"
         torch.save(ckpt, f=save_path)
 
         wandb.log_artifact(
