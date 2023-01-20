@@ -89,8 +89,9 @@ if __name__ == "__main__":
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                     n_feats, dec_dim, beta_min, beta_max, pe_scale).to(device)
 
+    hifigan = get_hifigan()
+
     try:
-        hifigan = get_hifigan()
         recent_artifact = wandb.use_artifact("rycont/Grad-TTS KSS/KSS:latest").download()
         model.load_state_dict(torch.load(recent_artifact))
         print('Loaded model from wandb')
@@ -204,7 +205,10 @@ if __name__ == "__main__":
                           f'{log_dir}/alignment_{i}.png')
 
                 audio = hifigan.forward(y_dec).cpu().squeeze().clamp(-1, 1)
-                ipd.display(ipd.Audio(audio, rate=44100))
+                # log audio to wandb
+                wandb.log({
+                    f"Sample Audio {i}": wandb.Audio(audio, sample_rate = 22050)
+                })
 
         ckpt = model.state_dict()
 
