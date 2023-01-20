@@ -9,7 +9,8 @@
 import wandb
 wandb.init(project = "Grad-TTS KSS")
 
-import os
+from hifi_gan.load import get_hifigan
+
 import numpy as np
 from tqdm import tqdm
 
@@ -88,10 +89,14 @@ if __name__ == "__main__":
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                     n_feats, dec_dim, beta_min, beta_max, pe_scale).to(device)
 
-    if grad_path is not None:
-        recent_artifact = wandb.use_artifact(grad_path)
-    else:
-        print('No checkpoint found. Initializing model from scratch...')
+    try:
+        hifigan = get_hifigan()
+        recent_artifact = wandb.use_artifact("rycont/Grad-TTS KSS/KSS:latest").download()
+        model.load_state_dict(torch.load(recent_artifact))
+        print('Loaded model from wandb')
+    except:
+        print('Failed to load model from wandb')
+        print('Initializing model from scratch...')
 
     print('Number of encoder + duration predictor parameters: %.2fm' % (model.encoder.nparams/1e6))
     print('Number of decoder parameters: %.2fm' % (model.decoder.nparams/1e6))
@@ -110,7 +115,7 @@ if __name__ == "__main__":
 
     print('Start training...')
     iteration = 0
-    for epoch in range(loaded_epoch, n_epochs + 1):
+    for epoch in range(0, n_epochs + 1):
         model.train()
         dur_losses = []
         prior_losses = []
@@ -181,6 +186,7 @@ if __name__ == "__main__":
                 x = item['x'].to(torch.long).unsqueeze(0).to(device)
                 x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
                 y_enc, y_dec, attn = model(x, x_lengths, n_timesteps=50)
+
                 logger.add_image(f'image_{i}/generated_enc',
                                  plot_tensor(y_enc.squeeze().cpu()),
                                  global_step=iteration, dataformats='HWC')
@@ -196,6 +202,9 @@ if __name__ == "__main__":
                           f'{log_dir}/generated_dec_{i}.png')
                 save_plot(attn.squeeze().cpu(), 
                           f'{log_dir}/alignment_{i}.png')
+
+                audio = hifigan.forward(y_dec).cpu().squeeze().clamp(-1, 1)
+                ipd.display(ipd.Audio(audio, rate=44100))
 
         ckpt = model.state_dict()
 

@@ -19,7 +19,7 @@ from model.utils import fix_len_compatibility
 from params import seed as random_seed
 
 import sys
-sys.path.insert(0, 'hifi-gan')
+sys.path.insert(0, 'hifi_gan')
 from meldataset import mel_spectrogram
 
 
