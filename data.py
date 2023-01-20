@@ -98,7 +98,7 @@ class TextMelBatchCollate(object):
                 y_lengths.append(y_.shape[-1])
                 x_lengths.append(x_.shape[-1])
             except Exception as e:
-                print("Passing an example due to exception: {}".format(e))
+                pass
 
         y_lengths = torch.LongTensor(y_lengths)
         x_lengths = torch.LongTensor(x_lengths)

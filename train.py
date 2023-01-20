@@ -167,7 +167,7 @@ if __name__ == "__main__":
                     iteration += 1
 
                 except RuntimeError as e:
-                    print("Passing batch due to RuntimeError: ", e)
+                    pass
 
         log_msg = 'Epoch %d: duration loss = %.3f ' % (epoch, np.mean(dur_losses))
         log_msg += '| prior loss = %.3f ' % np.mean(prior_losses)
