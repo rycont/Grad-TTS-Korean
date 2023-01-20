@@ -1,4 +1,4 @@
-from env import AttrDict
+from hifi_gan.env import AttrDict
 import json
 import torch
 from models import Generator as HiFiGAN
