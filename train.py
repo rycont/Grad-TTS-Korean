@@ -6,6 +6,9 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # MIT License for more details.
 
+import wandb
+wandb.init(project = "Grad-TTS KSS")
+
 import os
 import numpy as np
 from tqdm import tqdm
@@ -155,6 +158,14 @@ if __name__ == "__main__":
                                     global_step=iteration)
                     logger.add_scalar('training/decoder_grad_norm', dec_grad_norm,
                                     global_step=iteration)
+
+                    wandb.log({
+                        'duration_loss': dur_loss.item(),
+                        'prior_loss': prior_loss.item(),
+                        'diffusion_loss': diff_loss.item(),
+                        'encoder_grad_norm': enc_grad_norm,
+                        'decoder_grad_norm': dec_grad_norm
+                    })
                     
                     dur_losses.append(dur_loss.item())
                     prior_losses.append(prior_loss.item())
@@ -202,4 +213,13 @@ if __name__ == "__main__":
                           f'{log_dir}/alignment_{i}.png')
 
         ckpt = model.state_dict()
-        torch.save(ckpt, f=f"{log_dir}/grad_{epoch}.pt")
+
+        save_path = f"{log_dir}/grad_{epoch}.pt"
+        torch.save(ckpt, f=save_path)
+
+        wandb.log_artifact(
+            save_path,
+            aliases = [f"epoch_{epoch}"],
+            type = "model",
+            name = "KSS"
+        )
