@@ -61,12 +61,6 @@ beta_min = params.beta_min
 beta_max = params.beta_max
 pe_scale = params.pe_scale
 
-def get_recent_ckpt():
-    for i in range(n_epochs, 0, -1):
-        grad_path = f'{log_dir}/grad_{i}.pt'
-        if os.path.exists(grad_path):
-            return grad_path, i + 1
-    return None, 1
 
 
 if __name__ == "__main__":
@@ -90,21 +84,12 @@ if __name__ == "__main__":
 
     print('Initializing model...')
 
-    grad_path, loaded_epoch = get_recent_ckpt()
-
     model = GradTTS(nsymbols, 1, None, n_enc_channels, filter_channels, filter_channels_dp, 
                     n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
                     n_feats, dec_dim, beta_min, beta_max, pe_scale).to(device)
 
     if grad_path is not None:
-        print(f'Loading checkpoint from {grad_path}...')
-
-        model.load_state_dict(
-            torch.load(
-                grad_path,
-                map_location = device
-            )
-        )
+        recent_artifact = wandb.use_artifact(grad_path)
     else:
         print('No checkpoint found. Initializing model from scratch...')
 
@@ -219,7 +204,6 @@ if __name__ == "__main__":
 
         wandb.log_artifact(
             save_path,
-            aliases = [f"epoch_{epoch}"],
             type = "model",
             name = "KSS"
         )
