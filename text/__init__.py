@@ -2,17 +2,13 @@
 from params import lang
 from text.symbols import symbols
 from jamo import h2j
-from g2pk import G2p
-
-g2p = G2p()
 
 _symbol_to_id = {s: i for i, s in enumerate(symbols)}
 _id_to_symbol = {i: s for i, s in enumerate(symbols)}
 
-
 def preprocess(text):
     if lang == 'ko':
-        return h2j(g2p(text))
+        return h2j(text)
     else:
         raise NotImplementedError
 
