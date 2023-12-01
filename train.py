@@ -173,6 +173,20 @@ if __name__ == "__main__":
                         msg = f'Epoch: {epoch}, iteration: {iteration} | dur_loss: {dur_loss.item()}, prior_loss: {prior_loss.item()}, diff_loss: {diff_loss.item()}'
                         progress_bar.set_description(msg)
                     
+                    if batch_idx % 500 == 0:
+                        print('Synthesis...')
+                        with torch.no_grad():
+                            for i, item in enumerate(test_batch):
+                                x = item['x'].to(torch.long).unsqueeze(0).to(device)
+                                x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
+
+                                y_dec = model(x, x_lengths, n_timesteps=50)[1]
+
+                                audio = hifigan.forward(y_dec).cpu().squeeze().clamp(-1, 1)
+                                wandb.log({
+                                    f"Sample Audio {i}": wandb.Audio(audio, sample_rate = 22050)
+                                })
+
                     iteration += 1
 
                 except RuntimeError as e:
@@ -186,36 +200,6 @@ if __name__ == "__main__":
 
         if epoch % params.save_every > 0:
             continue
-
-        model.eval()
-        print('Synthesis...')
-        with torch.no_grad():
-            for i, item in enumerate(test_batch):
-                x = item['x'].to(torch.long).unsqueeze(0).to(device)
-                x_lengths = torch.LongTensor([x.shape[-1]]).to(device)
-                y_enc, y_dec, attn = model(x, x_lengths, n_timesteps=50)
-
-                logger.add_image(f'image_{i}/generated_enc',
-                                 plot_tensor(y_enc.squeeze().cpu()),
-                                 global_step=iteration, dataformats='HWC')
-                logger.add_image(f'image_{i}/generated_dec',
-                                 plot_tensor(y_dec.squeeze().cpu()),
-                                 global_step=iteration, dataformats='HWC')
-                logger.add_image(f'image_{i}/alignment',
-                                 plot_tensor(attn.squeeze().cpu()),
-                                 global_step=iteration, dataformats='HWC')
-                save_plot(y_enc.squeeze().cpu(), 
-                          f'{log_dir}/generated_enc_{i}.png')
-                save_plot(y_dec.squeeze().cpu(), 
-                          f'{log_dir}/generated_dec_{i}.png')
-                save_plot(attn.squeeze().cpu(), 
-                          f'{log_dir}/alignment_{i}.png')
-
-                audio = hifigan.forward(y_dec).cpu().squeeze().clamp(-1, 1)
-                # log audio to wandb
-                wandb.log({
-                    f"Sample Audio {i}": wandb.Audio(audio, sample_rate = 22050)
-                })
 
         ckpt = model.state_dict()
 
